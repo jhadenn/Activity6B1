@@ -7,7 +7,7 @@
 <h2>🧐 Features</h2>
 
 
-Here're some of the project's best features:
+Here're some of the project's features:
 
 *   Adding and removing products and editing details
 *   Sorting and filtering
