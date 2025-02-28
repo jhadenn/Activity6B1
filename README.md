@@ -7,12 +7,12 @@
 <h2>🧐 Features</h2>
 
 
-Here're some of the project's features:
+Here are some of the project's features:
 
 *   Adding and removing products and editing details
 *   Sorting and filtering
 *   Basic manager login
-*   View-only mode for customers
+*   Tracking user session, allowing different permissions
 
 
 <h2>💻 Built with</h2>
