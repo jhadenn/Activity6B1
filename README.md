@@ -17,9 +17,6 @@ Here are some of the project's features:
 
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
-
-*   Javascript
-*   Typscript
-*   Next.js
-*   React
+* React
+* Tailwind.css
+* Next.js
